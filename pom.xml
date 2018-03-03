@@ -446,12 +446,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.1.188:8081/repository/sample_release/</url>
+            <url>http://192.168.1.188:8081/repository/Nexus_Test2_Releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.1.188:8081/repository/sample_snapshot/</url>
+            <url>http://192.168.1.188:8081/repository/Nexus_Test2_Snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
